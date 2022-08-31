@@ -7,3 +7,4 @@ This README file is used to describe what each scripts inside of the folder does
 4-listmorefiles: This script is used to list both the content and the hidden files of the current working directory
 5-listfilesdirectory: This script is used to display the contents of a directory in long format, with user and group IDs and all hidden files in the Directory.
 6-firstdirectory: This is a script that creates '/tmp/my_first_dirctory'
+7-movethatfile: This script is used t o move '/tmp/betty' to /tmp/my_first_directory
