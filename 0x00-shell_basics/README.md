@@ -9,3 +9,4 @@ This README file is used to describe what each scripts inside of the folder does
 6-firstdirectory: This is a script that creates '/tmp/my_first_dirctory'
 7-movethatfile: This script is used t o move '/tmp/betty' to /tmp/my_first_directory
 8-firstdelete: This script is used to delete /tmp/my_first_directory/betty
+9-firstdirdeletion: This script is used for deleting /tmp/my_first_directory
