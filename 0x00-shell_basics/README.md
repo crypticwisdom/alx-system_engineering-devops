@@ -11,6 +11,7 @@ This README file is used to describe what each scripts inside of the folder does
 8-firstdelete: This script is used to delete /tmp/my_first_directory/betty
 9-firstdirdeletion: This script is used for deleting /tmp/my_first_directory
 10-back: Added a script to change the working directory to the previous working directory.
+11-lists: This script is used to print out the contents in current, parent of the current and the '/boot/' directories
 12-file_type: This script prints the type of '/tmp/iamafile'
 13-symbolic_link: this script is used to create a symbolic link to /bin/ls named '__ls__'
 14-copy_html: This script is used to copy all html files in the current working directory into the parent of the current working directory 
