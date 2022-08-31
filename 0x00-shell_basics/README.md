@@ -16,3 +16,6 @@ This README file is used to describe what each scripts inside of the folder does
 13-symbolic_link: this script is used to create a symbolic link to /bin/ls named '__ls__'
 14-copy_html: This script is used to copy all html files in the current working directory into the parent of the current working directory 
 100-lets_move: This script is used to move any file that start with an uppercase to /tmp/u
+101-clean_emacs: This script is used to remove emac generated files
+102-tree: This script is used to create welcome/to/school firectories
+103-commas: This script is used to list out files separated by commas
