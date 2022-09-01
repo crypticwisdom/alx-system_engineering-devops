@@ -14,3 +14,5 @@
 mkdir -m 751 my_dir
 12-directory_permissions: This script is used to make a directory and also give it a 751 permission
 13-change_group: This script is used to change the group owner to school for the fike hello
+chown vincent:staff *
+100-change_owner_and_group: This script is used to change the owner and the group owner
