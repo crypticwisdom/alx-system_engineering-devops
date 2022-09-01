@@ -9,3 +9,4 @@
 7-everybosy: This script is used to add execution permission to every type of users
 8-james_bond: This script gives other users all the permissons rxw
 9-John_Doe: This script changes the modes of the file hello
+10-mirror_permissions: This script mirrors the permission of a file to another file
