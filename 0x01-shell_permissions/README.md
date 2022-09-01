@@ -8,3 +8,4 @@
 6-multiple_permissions: This script is used to give execute permisson to user and group owner, and read permisson to other users
 7-everybosy: This script is used to add execution permission to every type of users
 8-james_bond: This script gives other users all the permissons rxw
+9-John_Doe: This script changes the modes of the file hello
