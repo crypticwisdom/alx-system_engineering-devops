@@ -18,3 +18,5 @@ chown vincent:staff *
 100-change_owner_and_group: This script is used to change the owner and the group owner
 101-symbolic_link_permissions: This script is used to change the owner and the group owner of _hello to vincent and staff respectively.
 
+102-if_only
+102-if_only: This script is used to change the owner of the file hello to betty only if it is owned by the user guillaume
