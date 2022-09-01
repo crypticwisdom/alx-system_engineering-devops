@@ -11,3 +11,5 @@
 9-John_Doe: This script changes the modes of the file hello
 10-mirror_permissions: This script mirrors the permission of a file to another file
 11-directories_permissions: This script is used to give execute permission to all sub directories of the current directories.
+mkdir -m 751 my_dir
+12-directory_permissions: This script is used to make a directory and also give it a 751 permission
