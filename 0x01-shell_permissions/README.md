@@ -13,3 +13,4 @@
 11-directories_permissions: This script is used to give execute permission to all sub directories of the current directories.
 mkdir -m 751 my_dir
 12-directory_permissions: This script is used to make a directory and also give it a 751 permission
+13-change_group: This script is used to change the group owner to school for the fike hello
