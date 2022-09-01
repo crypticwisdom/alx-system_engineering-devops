@@ -5,3 +5,4 @@
 4-empty: This script creates an empty script called hello
 5-execute: This script adds an execute permission to file hello
 
+5-multiple_permissions: This script is used to give execute permisson to user and group owner, and read permisson to other users
