@@ -6,3 +6,4 @@
 5-firstlines: This script prints out the first 10 lines of /etc/passwd
 6-third_line: This prints the third line of iacta
 special character file name: This script creates a file in soecial character name
+8-cwd_state: This script ...
